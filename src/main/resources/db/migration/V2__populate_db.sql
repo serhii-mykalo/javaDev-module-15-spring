@@ -4,3 +4,6 @@ INSERT INTO notes (title, content) VALUES
     ('Third Note', 'This is the content for the third note'),
     ('Fourth Note', 'This is the content for the fourth note'),
     ('Fifth Note', 'This is the content for the fifth note');
+
+INSERT INTO users (username, password) VALUES ('user', 'default');
+
